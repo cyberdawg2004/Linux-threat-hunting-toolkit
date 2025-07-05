@@ -1,0 +1,13 @@
+Port Scan Log - Sat Jul  5 09:05:52 PM +03 2025
+udp 0.0.0.0:5353
+udp 0.0.0.0:47100
+udp 127.0.0.54:53
+udp 127.0.0.53%lo:53
+udp [::]:5353
+udp [::]:51323
+tcp 127.0.0.54:53
+tcp 127.0.0.53%lo:53
+tcp 127.0.0.1:631
+tcp [::1]:631
+
+Suspicious Ports Found:

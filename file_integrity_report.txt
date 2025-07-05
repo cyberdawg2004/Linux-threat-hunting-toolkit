@@ -1,0 +1,15 @@
+
+Checking: /etc/passwd
+Current Hash: 375946863fab152029496047c594fbde20ab597eb9972b90d327e09728b6ed5e
+Expected Hash: 375946863fab152029496047c594fbde20ab597eb9972b90d327e09728b6ed5e
+File is clean
+
+Checking: /etc/shadow
+Current Hash: 97f03b4a856f5f5ae3d169a545f3a6927cb25824262f9f93bbef126a7ab75eef
+Expected Hash: 97f03b4a856f5f5ae3d169a545f3a6927cb25824262f9f93bbef126a7ab75eef
+File is clean
+
+Checking: /bin/bash
+Current Hash: bc5945feb8bd26203ebfafea5ce1878bb2e32cb8fb50ab7ae395cfb1e1aaaef1
+Expected Hash: bc5945feb8bd26203ebfafea5ce1878bb2e32cb8fb50ab7ae395cfb1e1aaaef1
+File is clean

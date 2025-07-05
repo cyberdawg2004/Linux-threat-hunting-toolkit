@@ -1,0 +1,9 @@
+Detecting Suspicious Users (non-root UID 0) and Odd Login Times...
+
+[!] Users with UID 0 but NOT named 'root': 
+
+ Login Attempts (from /var/log/auth.log): 
+
+ Suspicious Late-Night Logins (00:00-06:00): 
+
+ Done scanning. Review results above.
